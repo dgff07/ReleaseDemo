@@ -8,10 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     name: Create release
     steps:
-      - name: checkout code
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
       - name: create release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
