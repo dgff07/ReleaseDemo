@@ -1,3 +1,10 @@
+### [3.0.1](https://github.com/dgff07/ReleaseDemo/compare/v3.0.0...v3.0.1) (2023-01-24)
+
+
+### Performance Improvements
+
+* test ([b66c393](https://github.com/dgff07/ReleaseDemo/commit/b66c393b34611ba50601dd928df687b2dbef4db8))
+
 ## [3.0.0](https://github.com/dgff07/ReleaseDemo/compare/v2.0.0...v3.0.0) (2023-01-24)
 
 
