@@ -1,3 +1,19 @@
+## [3.0.0](https://github.com/dgff07/ReleaseDemo/compare/v2.0.0...v3.0.0) (2023-01-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* test breaking change
+
+### Features
+
+* test breaking change ([003b244](https://github.com/dgff07/ReleaseDemo/commit/003b24401f42bfe00e4e110a2be615842a034622))
+
+
+### Performance Improvements
+
+* test ([e8bed51](https://github.com/dgff07/ReleaseDemo/commit/e8bed5152db076db546a77f04d8c24b7167ce4e5))
+
 ## [2.0.0](https://github.com/dgff07/ReleaseDemo/compare/v1.1.0...v2.0.0) (2023-01-23)
 
 
